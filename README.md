@@ -13,6 +13,11 @@
 # Vim Marks
 [Using Marks](https://medium.com/@kyle.coberly/using-marks-in-vim-c878929ee022)
 
+# Vim Mappings
+[Basic Vim Mappings](https://dev.to/iggredible/basic-vim-mapping-5ahj)
+
+[Understand and Create Vim Mappings](https://medium.com/vim-drops/understand-vim-mappings-and-create-your-own-shortcuts-f52ee4a6b8ed)
+
 # Vim Shell
 [Vim Filters, External Commands and Shell](https://vimways.org/2019/vim-and-the-shell/)
 
