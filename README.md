@@ -18,6 +18,12 @@
 
 [Understand and Create Vim Mappings](https://medium.com/vim-drops/understand-vim-mappings-and-create-your-own-shortcuts-f52ee4a6b8ed)
 
+# Reload .vimrc File
+[Reloading .vimrc without exiting Vim](https://medium.com/usevim/reloading-your-vimrc-bdbc7e6e9665)
+
+# Vim Leaders
+[Leader and LocalLeader](https://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
+
 # Vim Shell
 [Vim Filters, External Commands and Shell](https://vimways.org/2019/vim-and-the-shell/)
 
