@@ -18,5 +18,8 @@
 
 [Vim Tips Working External Commands](https://www.linux.com/training-tutorials/vim-tips-working-external-commands/)
 
+# Vim Useful Plugins
+[File System Explorer From Vim](https://github.com/preservim/nerdtree)
+
 # Acknowledgments
 Thanks to anyone who's code/framework/references/examples are used
