@@ -20,6 +20,7 @@
 
 # Vim Useful Plugins
 [File System Explorer for Vim](https://github.com/preservim/nerdtree)
+
 [Status/Tabline for Vim](https://github.com/vim-airline/vim-airline)
 
 # Acknowledgments
