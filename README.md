@@ -21,6 +21,11 @@
 # Reload .vimrc File
 [Reloading .vimrc without exiting Vim](https://medium.com/usevim/reloading-your-vimrc-bdbc7e6e9665)
 
+# Customizing .vimrc File
+[A Good Vimrc](https://dougblack.io/words/a-good-vimrc.html)
+
+[How I Boosted My Vim](https://nvie.com/posts/how-i-boosted-my-vim/)
+
 # Vim Leaders
 [Leader and LocalLeader](https://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
 
