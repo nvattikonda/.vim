@@ -39,5 +39,10 @@
 
 [Status/Tabline for Vim](https://github.com/vim-airline/vim-airline)
 
+# References
+[nvie .vimrc](https://raw.githubusercontent.com/nvie/vimrc/master/vimrc)
+
+[dougblack .vimrc](https://github.com/dougblack/dotfiles/blob/master/.vimrc)
+
 # Acknowledgments
 Thanks to anyone who's code/framework/references/examples are used
