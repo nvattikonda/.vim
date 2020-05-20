@@ -1,5 +1,5 @@
 " enable syntax processing
-set syntax on          
+syntax on          
 
 " number of visual spaces per TAB
 set tabstop=4      
