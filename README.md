@@ -51,6 +51,11 @@ system vimrc file: "$VIM/vimrc"
        defaults file: "$VIMRUNTIME/defaults.vim"
   fall-back for $VIM: "/usr/share/vim"
 ```
+# FAQ
+[vi-vim-arrow-key-dont-work](https://www.shellhacks.com/vi-vim-arrow-keys-dont-work-print-letters-in-insert-mode/)
+
+[vi-vim-backspace-not-working](https://www.shellhacks.com/vi-vim-backspace-not-working/)
+
 # References
 [nvie .vimrc](https://raw.githubusercontent.com/nvie/vimrc/master/vimrc)
 
