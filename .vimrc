@@ -1,5 +1,19 @@
+" Use vim settings, rather then vi settings (much better!)
+" This must be first, because it changes other options as a side effect.
+set nocompatible
+
+" Change shell
+" Vim expects a POSIX-compliant shell
+set shell=bash                  
+
+" remember more commands and search history
+set history=1000                
+
 " enable syntax processing
 syntax on          
+
+" allow backspacing over everything in insert mode
+set backspace=indent,eol,start  
 
 " number of visual spaces per TAB
 set tabstop=4      
@@ -35,7 +49,11 @@ set smartcase
 set incsearch          
 
 " highlight matches
-set hlsearch           
+set hlsearch     
+
+" Remap j and k to act as expected when used on long wrapped lines
+nnoremap j gj
+nnoremap k gk
 
 " turn off search highlight
 nnoremap <leader><space> :nohlsearch<CR>
@@ -45,7 +63,6 @@ set termencoding=utf-8
 
 " character encoding used inside
 set encoding=utf-8
-
 
 " Change the mapleader from \ to ,
 let mapleader=","
