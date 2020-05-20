@@ -39,6 +39,18 @@
 
 [Status/Tabline for Vim](https://github.com/vim-airline/vim-airline)
 
+# .vimrc file loading sequence
+`:version` should display .vimrc loading sequence
+
+Below is .vimrc loading sequnce on my local machine
+```
+system vimrc file: "$VIM/vimrc"
+     user vimrc file: "$HOME/.vimrc"
+ 2nd user vimrc file: "~/.vim/vimrc"
+      user exrc file: "$HOME/.exrc"
+       defaults file: "$VIMRUNTIME/defaults.vim"
+  fall-back for $VIM: "/usr/share/vim"
+```
 # References
 [nvie .vimrc](https://raw.githubusercontent.com/nvie/vimrc/master/vimrc)
 
