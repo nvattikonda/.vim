@@ -34,12 +34,15 @@
 
 [Vim Tips Working External Commands](https://www.linux.com/training-tutorials/vim-tips-working-external-commands/)
 
+# Vim Packages/Plugins Setup
+[How to use Vim Packages](https://dev.to/iggredible/how-to-use-vim-packages-3gil)
+
 # Vim Useful Plugins
 [File System Explorer for Vim](https://github.com/preservim/nerdtree)
 
 [Status/Tabline for Vim](https://github.com/vim-airline/vim-airline)
 
-[themes for vim-airline](https://github.com/vim-airline/vim-airline-themes)
+[Themes for vim-airline](https://github.com/vim-airline/vim-airline-themes)
 
 # .vimrc file loading sequence
 `:version` should display .vimrc loading sequence
