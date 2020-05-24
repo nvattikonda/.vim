@@ -39,6 +39,8 @@
 
 [Status/Tabline for Vim](https://github.com/vim-airline/vim-airline)
 
+[themes for vim-airline](https://github.com/vim-airline/vim-airline-themes)
+
 # .vimrc file loading sequence
 `:version` should display .vimrc loading sequence
 
