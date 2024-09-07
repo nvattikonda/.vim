@@ -62,8 +62,6 @@ system vimrc file: "$VIM/vimrc"
 [vi-vim-backspace-not-working](https://www.shellhacks.com/vi-vim-backspace-not-working/)
 
 # References
-[nvie .vimrc](https://raw.githubusercontent.com/nvie/vimrc/master/vimrc)
-
 [dougblack .vimrc](https://github.com/dougblack/dotfiles/blob/master/.vimrc)
 
 # Acknowledgments
