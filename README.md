@@ -10,6 +10,10 @@
 
 [Buffers Windows Tabs Cheat Sheet](https://feici02.github.io/2017/05/28/buffers-windows-tabs.html)
 
+[Window Splits, Rearranging](https://dev.to/mr_destructive/vim-window-splits-p3p)
+
+[Zooming Window Splits](https://medium.com/@vinodkri/zooming-vim-window-splits-like-a-pro-d7a9317d40)
+
 # Vim Marks
 [Using Marks](https://medium.com/@kyle.coberly/using-marks-in-vim-c878929ee022)
 
